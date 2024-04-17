@@ -751,6 +751,15 @@ p {
   padding-right: 5%;
 }
 
+footer {
+  color: var(--color-eggshell);
+  text-align: center;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
 .big-heading {
   font-size: 5em;
 }
